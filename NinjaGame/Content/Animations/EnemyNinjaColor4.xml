@@ -1,0 +1,44 @@
+<data BoxDimensionsX="32" BoxDimensionsY="48" EllipseDimensionsX="32" EllipseDimensionsY="48">
+
+	<body OffsetX="0" OffsetY="8" SizeX="40" SizeY="80">
+
+		<Still>
+			<frame>Graphics\Animations\EnemyNinja\Body_running_color4_01</frame>
+		</Still>
+
+		<Running FrameRate="10" MaxFrameRate="14" MinFrameRate="0">
+			<frame>Graphics\Animations\EnemyNinja\Body_running_color4_01</frame>
+			<frame>Graphics\Animations\EnemyNinja\Body_running_color4_02</frame>
+			<frame>Graphics\Animations\EnemyNinja\Body_running_color4_03</frame>
+			<frame>Graphics\Animations\EnemyNinja\Body_running_color4_04</frame>
+			<frame>Graphics\Animations\EnemyNinja\Body_running_color4_05</frame>
+		</Running>
+
+		<Jumping FrameRate="12">
+			<frame>Graphics\Animations\EnemyNinja\Body_jumping_color4_01</frame>
+			<frame>Graphics\Animations\EnemyNinja\Body_jumping_color4_02</frame>
+			<frame>Graphics\Animations\EnemyNinja\Body_jumping_color4_03</frame>
+			<frame>Graphics\Animations\EnemyNinja\Body_jumping_color4_04</frame>
+		</Jumping>
+
+	</body>
+
+	<arm OffsetX="6" OffsetY="24" SizeX="32" SizeY="30">
+
+		<Still>
+			<frame>Graphics\Animations\EnemyNinja\Arm_attacking_color4_01</frame>
+		</Still>
+
+		<Throwing FrameRate="8">
+			<frame>Graphics\Animations\EnemyNinja\Arm_throwing_color4_01</frame>
+			<frame>Graphics\Animations\EnemyNinja\Arm_throwing_color4_02</frame>
+		</Throwing>
+
+		<Attacking FrameRate="8">
+			<frame>Graphics\Animations\EnemyNinja\Arm_attacking_color4_01</frame>
+			<frame>Graphics\Animations\EnemyNinja\Arm_attacking_color4_02</frame>
+		</Attacking>
+
+	</arm>
+
+</data>

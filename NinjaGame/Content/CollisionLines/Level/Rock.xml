@@ -1,0 +1,37 @@
+<data>
+	<line>
+		<coord>-80</coord>
+		<coord>-18</coord>
+		<coord>-28</coord>
+		<coord>45</coord>
+	</line>
+
+	<line>
+		<coord>-28</coord>
+		<coord>45</coord>
+		<coord>7</coord>
+		<coord>45</coord>
+	</line>
+	
+	<line>
+		<coord>7</coord>
+		<coord>45</coord>
+		<coord>36</coord>
+		<coord>14</coord>
+	</line>
+
+	<line>
+		<coord>36</coord>
+		<coord>14</coord>
+		<coord>58</coord>
+		<coord>13</coord>
+	</line>
+
+	<line>
+		<coord>58</coord>
+		<coord>13</coord>
+		<coord>79</coord>
+		<coord>-14</coord>
+	</line>	
+
+</data>

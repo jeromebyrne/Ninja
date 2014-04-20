@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="NinjaGame_Music">Wave Bank
+{
+    Name = NinjaGame_Music;
+    Xbox File = Xbox\NinjaGame_Music.xwb;
+    Windows File = Win\NinjaGame_Music.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = Music;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 2051323186;
+    Bank Last Revised High = 29951284;
+
+    Wave
+    {
+        Name = Music1;
+        File = Waves\Music1.wav;
+        Build Settings Last Modified Low = 2051323186;
+        Build Settings Last Modified High = 29951284;
+        Compression Preset Name = Music;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 16934400;
+            Loop Region Offset = 0;
+            Loop Region Length = 16934400;
+            File Type = 1;
+            Last Modified Low = 2263343522;
+            Last Modified High = 29949668;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

@@ -1,0 +1,22 @@
+<data>
+  <Gui_Picture>
+    <Name>
+    </Name>
+    <Depth>1000</Depth>
+    <PositionX>0</PositionX>
+    <PositionY>0</PositionY>
+    <Texture>Graphics\Gui\MGS</Texture>
+    <Effect>Effects\textured</Effect>
+    <SizeX>256</SizeX>
+    <SizeY>128</SizeY>
+    <FlipHorizontal>False</FlipHorizontal>
+    <FlipVertical>False</FlipVertical>
+    <HorizontalRepeats>1</HorizontalRepeats>
+    <VerticalRepeats>1</VerticalRepeats>
+  </Gui_Picture>
+	<Gui_Screen_Fader>
+		<Depth>0</Depth>
+		<FadeTime>5</FadeTime>
+		<NextGui>Content\Guis\Main_menu.xml</NextGui>		
+	   </Gui_Screen_Fader>
+</data>

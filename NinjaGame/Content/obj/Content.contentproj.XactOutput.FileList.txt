@@ -1,0 +1,6 @@
+Content\Sounds\NinjaGame_Music.xgs
+Content\Sounds\NinjaGame_Music.xwb
+Content\Sounds\NinjaGame_Music.xsb
+Content\Sounds\NinjaGame_Sounds.xgs
+Content\Sounds\NinjaGame_Sounds.xwb
+Content\Sounds\NinjaGame_Sounds.xsb

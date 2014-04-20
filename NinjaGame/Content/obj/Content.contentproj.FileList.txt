@@ -1,0 +1,6 @@
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Sounds\NinjaGame_Music.xml
+obj\x86\Debug\Sounds\NinjaGame_Sounds.xml
+obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+obj\Xbox 360\Debug\Sounds\NinjaGame_Music.xml
+obj\Xbox 360\Debug\Sounds\NinjaGame_Sounds.xml

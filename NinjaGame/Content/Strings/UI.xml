@@ -1,0 +1,90 @@
+﻿<data>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Loading _locID="loading_message">Now loading, Please wait.. </Loading>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Instructions _locID="Instructions_back">Back</Instructions>
+	<Instructions _locID="instructions_lt">Block shurikens</Instructions>
+	<Instructions _locID="instructions_rt">Jump</Instructions>
+	<Instructions _locID="instructions_ls">Move</Instructions>
+	<Instructions _locID="instructions_rs">Throw shuriken</Instructions>
+	<Instructions _locID="instructions_a">Attack</Instructions>
+	<Instructions _locID="instructions_start">Menu</Instructions>
+	<Instructions _locID="instructions_buttons">[Graphics\Gui\Icons\A] Select</Instructions>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Game_paused _locID="game_paused_instructions">Instructions</Game_paused>
+	<Game_paused _locID="game_paused_options">Options</Game_paused>
+	<Game_paused _locID="game_paused_return">Return to game</Game_paused>
+	<Game_paused _locID="game_paused_quit">Quit game</Game_paused>
+	<Game_paused _locID="game_paused_buttons">[Graphics\Gui\Icons\A] Select [Graphics\Gui\Icons\Up][Graphics\Gui\Icons\Down] Move</Game_paused>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Main_menu _locID="main_menu_new_game">New game</Main_menu>
+	<Main_menu _locID="main_menu_instructions">Instructions</Main_menu>
+	<Main_menu _locID="main_menu_high_scores">High scores</Main_menu>
+	<Main_menu _locID="main_menu_options">Options</Main_menu>
+	<Main_menu _locID="main_menu_quit">Quit</Main_menu>
+	<Main_menu _locID="main_menu_buttons">[Graphics\Gui\Icons\A] Select [Graphics\Gui\Icons\Up][Graphics\Gui\Icons\Down] Move</Main_menu>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Level _locID="level_win_message">Level complete!</Level>
+	<Level _locID="level_lose_message">Level failed!</Level>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<User _locID="user_enter_name_description">Please enter your name for high score records. Maximum name length is 15 characters.</User>
+	<User _locID="user_enter_name_title">Name entry</User>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+	
+	<HighScores _locID="high_scores_1st">1st:</HighScores>
+	<HighScores _locID="high_scores_2nd">2nd:</HighScores>
+	<HighScores _locID="high_scores_3rd">3rd:</HighScores>
+	<HighScores _locID="high_scores_message">Top scores for the level</HighScores>
+	<HighScores _locID="high_scores_back">Back</HighScores>
+	<HighScores _locID="high_scores_buttons">[Graphics\Gui\Icons\A] Select [Graphics\Gui\Icons\Up][Graphics\Gui\Icons\Down] Move</HighScores>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Level_finshed _locID="level_finished_restart">Restart level</Level_finshed>
+	<Level_finshed _locID="level_finished_continue">Continue</Level_finshed>
+	<Level_finshed _locID="level_finished_quit">Quit game</Level_finshed>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Phase_change _locID="phase_change_phase">Phase</Phase_change>
+	<Phase_change _locID="phase_change_ready">Fight!</Phase_change>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Options _locID="Options_back">Back</Options>
+	<Options _locID="Options_Music_Volume">Music volume</Options>
+	<Options _locID="Options_Sound_Volume">Sound volume</Options>
+	<Options _locID="Options_Brightness">Brightness</Options>
+	<Options _locID="Options_buttons">[Graphics\Gui\Icons\A] Select [Graphics\Gui\Icons\Up][Graphics\Gui\Icons\Down] Move [Graphics\Gui\Icons\Left][Graphics\Gui\Icons\Right] Change</Options>
+
+	<!--======================================================================-->
+	<!--======================================================================-->
+
+	<Story_screen _locID="story_screen_back">Back</Story_screen>
+	<Story_screen _locID="story_screen_continue">Continue</Story_screen>
+	<Story_screen _locID="story_screen_buttons">[Graphics\Gui\Icons\A] Select [Graphics\Gui\Icons\Up][Graphics\Gui\Icons\Down] Move</Story_screen>
+	
+</data>

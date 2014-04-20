@@ -1,0 +1,58 @@
+<data>
+	<line>
+		<coord>-245</coord>
+		<coord>27</coord>
+		<coord>-226</coord>
+		<coord>27</coord>
+	</line>
+
+	<line>
+		<coord>-226</coord>
+		<coord>27</coord>
+		<coord>-141</coord>
+		<coord>121</coord>		
+	</line>
+
+	<line>
+		<coord>-141</coord>
+		<coord>121</coord>
+		<coord>-131</coord>
+		<coord>171</coord>		
+	</line>
+
+	<line>
+		<coord>-131</coord>
+		<coord>171</coord>
+		<coord>86</coord>
+		<coord>171</coord>		
+	</line>
+
+	<line>
+		<coord>86</coord>
+		<coord>171</coord>
+		<coord>89</coord>
+		<coord>146</coord>
+	</line>
+
+	<line>
+		<coord>89</coord>
+		<coord>146</coord>
+		<coord>99</coord>
+		<coord>126</coord>
+	</line>
+
+	<line>
+		<coord>99</coord>
+		<coord>126</coord>
+		<coord>201</coord>
+		<coord>33</coord>		
+	</line>
+
+	<line>
+		<coord>201</coord>
+		<coord>33</coord>
+		<coord>217</coord>
+		<coord>33</coord>		
+	</line>
+
+</data>

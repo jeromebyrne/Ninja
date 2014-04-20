@@ -1,0 +1,23 @@
+<data>
+	<line>
+		<coord>-512</coord>
+		<coord>72</coord>
+		<coord>-34</coord>
+		<coord>46</coord>
+	</line>
+
+	<line>
+		<coord>-34</coord>
+		<coord>46</coord>
+		<coord>386</coord>
+		<coord>-78</coord>		
+	</line>
+
+	<line>
+		<coord>386</coord>
+		<coord>-78</coord>
+		<coord>479</coord>
+		<coord>-128</coord>		
+	</line>
+
+</data>

@@ -1,0 +1,30 @@
+<data>	
+	
+	<line>
+		<coord>-202</coord>
+		<coord>-236</coord>
+		<coord>-54</coord>
+		<coord>-91</coord>
+	</line>
+	<line>
+		<coord>-54</coord>
+		<coord>-91</coord>
+		<coord>166</coord>
+		<coord>-94</coord>		
+	</line>
+
+	<line>
+		<coord>-29</coord>
+		<coord>64</coord>
+		<coord>163</coord>
+		<coord>57</coord>
+	</line>
+
+	<line>
+		<coord>-31</coord>
+		<coord>219</coord>
+		<coord>160</coord>
+		<coord>214</coord>
+	</line>
+
+</data>

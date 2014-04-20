@@ -1,0 +1,26 @@
+<data>
+	<line>
+		<coord>-92</coord>
+		<coord>-23</coord>
+		<coord>-22</coord>
+		<coord>-8</coord>
+	</line>
+	<line>
+		<coord>-22</coord>
+		<coord>-8</coord>
+		<coord>1</coord>
+		<coord>6</coord>		
+	</line>
+	<line>
+		<coord>1</coord>
+		<coord>6</coord>
+		<coord>17</coord>
+		<coord>-9</coord>		
+	</line>
+	<line>
+		<coord>17</coord>
+		<coord>-9</coord>
+		<coord>83</coord>
+		<coord>-25</coord>
+	</line>
+</data>

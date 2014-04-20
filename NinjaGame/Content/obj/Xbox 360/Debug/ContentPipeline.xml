@@ -1,0 +1,1933 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effects\textured.fx</Source>
+      <Name>Effects\textured</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\textured.xnb</Output>
+      <Time>2008-07-25T16:44:18.256188+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\colored.fx</Source>
+      <Name>Effects\colored</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\colored.xnb</Output>
+      <Time>2008-07-25T16:44:18.256188+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\black_edged_sprite.fx</Source>
+      <Name>Effects\black_edged_sprite</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\black_edged_sprite.xnb</Output>
+      <Time>2008-07-25T16:44:18.256188+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\paused_blur.fx</Source>
+      <Name>Effects\paused_blur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\paused_blur.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\normal_mapped.fx</Source>
+      <Name>Effects\normal_mapped</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\normal_mapped.xnb</Output>
+      <Time>2008-08-07T10:31:03.357837+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\textured_wobble.fx</Source>
+      <Name>Effects\textured_wobble</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\textured_wobble.xnb</Output>
+      <Time>2008-07-29T18:18:42.641796+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\clouds.fx</Source>
+      <Name>Effects\clouds</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\clouds.xnb</Output>
+      <Time>2008-08-12T17:36:15.445991+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\particle.fx</Source>
+      <Name>Effects\particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\particle.xnb</Output>
+      <Time>2008-08-18T18:02:04.329859+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\stars.fx</Source>
+      <Name>Effects\stars</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\stars.xnb</Output>
+      <Time>2008-08-19T16:58:08.941681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\dual_textured.fx</Source>
+      <Name>Effects\dual_textured</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Effects\dual_textured.xnb</Output>
+      <Time>2008-08-26T03:01:28.375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Test\test_ball.tga</Source>
+      <Name>Graphics\Test\test_ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Test\test_ball.xnb</Output>
+      <Time>2008-07-22T17:30:48.890538+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Objects\Health.tga</Source>
+      <Name>Graphics\Objects\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Objects\Health.xnb</Output>
+      <Time>2008-07-25T16:44:18.256188+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Fonts\Game.dds</Source>
+      <Name>Graphics\Fonts\Game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Fonts\Game.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Cliff.dds</Source>
+      <Name>Graphics\Level\Town_Cliff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Cliff.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Cliff_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Cliff_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Cliff_Normal.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Sky.dds</Source>
+      <Name>Graphics\Level\Sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Sky.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Ground_top.dds</Source>
+      <Name>Graphics\Level\Ground_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Ground_top.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Ground_top_normal.dds</Source>
+      <Name>Graphics\Level\Ground_top_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Ground_top_normal.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Arm_attacking_01.dds</Source>
+      <Name>Graphics\Animations\Ninja\Arm_attacking_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Arm_attacking_01.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Arm_attacking_02.dds</Source>
+      <Name>Graphics\Animations\Ninja\Arm_attacking_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Arm_attacking_02.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Arm_throwing_01.dds</Source>
+      <Name>Graphics\Animations\Ninja\Arm_throwing_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Arm_throwing_01.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Arm_throwing_02.dds</Source>
+      <Name>Graphics\Animations\Ninja\Arm_throwing_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Arm_throwing_02.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_jumping_01.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_jumping_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_jumping_01.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_jumping_02.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_jumping_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_jumping_02.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_jumping_03.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_jumping_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_jumping_03.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_jumping_04.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_jumping_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_jumping_04.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_running_01.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_running_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_running_01.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_running_02.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_running_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_running_02.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_running_03.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_running_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_running_03.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_running_04.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_running_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_running_04.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\Ninja\Body_running_05.dds</Source>
+      <Name>Graphics\Animations\Ninja\Body_running_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\Ninja\Body_running_05.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Background.dds</Source>
+      <Name>Graphics\Gui\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Background.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Health_Bar_Fill.dds</Source>
+      <Name>Graphics\Gui\Health_Bar_Fill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Health_Bar_Fill.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Health_Bar_Middle.dds</Source>
+      <Name>Graphics\Gui\Health_Bar_Middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Health_Bar_Middle.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Health_Bar_Side.dds</Source>
+      <Name>Graphics\Gui\Health_Bar_Side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Health_Bar_Side.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Score_Bar.dds</Source>
+      <Name>Graphics\Gui\Score_Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Score_Bar.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Cloud_01.dds</Source>
+      <Name>Graphics\Level\Cloud_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Cloud_01.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Cloud_02.dds</Source>
+      <Name>Graphics\Level\Cloud_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Cloud_02.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Wall_Bottom.dds</Source>
+      <Name>Graphics\Level\Town_Wall_Bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Wall_Bottom.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Wall_Bottom_normal.dds</Source>
+      <Name>Graphics\Level\Town_Wall_Bottom_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Wall_Bottom_normal.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Wall_Middle.dds</Source>
+      <Name>Graphics\Level\Town_Wall_Middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Wall_Middle.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Wall_Middle_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Wall_Middle_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Wall_Middle_Normal.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Wall_Top.dds</Source>
+      <Name>Graphics\Level\Town_Wall_Top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Wall_Top.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Wall_Top_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Wall_Top_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Wall_Top_Normal.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Mountains.dds</Source>
+      <Name>Graphics\Level\Mountains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Mountains.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Hills.dds</Source>
+      <Name>Graphics\Level\Hills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Hills.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Tree.dds</Source>
+      <Name>Graphics\Level\Tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Tree.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Tree_Normal.dds</Source>
+      <Name>Graphics\Level\Tree_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Tree_Normal.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Ground_grass.dds</Source>
+      <Name>Graphics\Level\Ground_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Ground_grass.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Ground_grass_normal.dds</Source>
+      <Name>Graphics\Level\Ground_grass_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Ground_grass_normal.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Rock.dds</Source>
+      <Name>Graphics\Level\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Rock.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Rock_Normal.dds</Source>
+      <Name>Graphics\Level\Rock_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Rock_Normal.xnb</Output>
+      <Time>2008-08-14T18:08:55.578497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\MGS.dds</Source>
+      <Name>Graphics\Gui\MGS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\MGS.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Hut_01_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Hut_01_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Hut_01_Normal.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Hut_01.dds</Source>
+      <Name>Graphics\Level\Town_Hut_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Hut_01.xnb</Output>
+      <Time>2008-08-15T15:38:04.940125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Particles\BloodSplatter.dds</Source>
+      <Name>Graphics\Particles\BloodSplatter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Particles\BloodSplatter.xnb</Output>
+      <Time>2008-08-19T16:58:08.941681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Particles\Glow.dds</Source>
+      <Name>Graphics\Particles\Glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Particles\Glow.xnb</Output>
+      <Time>2008-08-19T16:58:08.941681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Particles\Spark.dds</Source>
+      <Name>Graphics\Particles\Spark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Particles\Spark.xnb</Output>
+      <Time>2008-08-19T16:58:08.941681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\default.dds</Source>
+      <Name>Graphics\default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\default.xnb</Output>
+      <Time>2008-08-19T16:58:08.941681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_House_01_Normal.dds</Source>
+      <Name>Graphics\Level\Town_House_01_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_House_01_Normal.xnb</Output>
+      <Time>2008-08-19T16:58:08.941681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_House_01.dds</Source>
+      <Name>Graphics\Level\Town_House_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_House_01.xnb</Output>
+      <Time>2008-08-19T16:58:08.941681+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Story\Level1StoryPicture1.dds</Source>
+      <Name>Graphics\Story\Level1StoryPicture1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Story\Level1StoryPicture1.xnb</Output>
+      <Time>2008-08-26T02:04:02.84375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Story\Level1StoryPicture2.dds</Source>
+      <Name>Graphics\Story\Level1StoryPicture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Story\Level1StoryPicture2.xnb</Output>
+      <Time>2008-08-26T02:04:12.796875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Story\Level1StoryPicture3.dds</Source>
+      <Name>Graphics\Story\Level1StoryPicture3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Story\Level1StoryPicture3.xnb</Output>
+      <Time>2008-08-27T14:52:27.3471816+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Story\Level1StoryPicture4.dds</Source>
+      <Name>Graphics\Story\Level1StoryPicture4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Story\Level1StoryPicture4.xnb</Output>
+      <Time>2008-08-27T14:52:27.3471816+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Objects\EnemyShuriken.dds</Source>
+      <Name>Graphics\Objects\EnemyShuriken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Objects\EnemyShuriken.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Objects\Shuriken.dds</Source>
+      <Name>Graphics\Objects\Shuriken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Objects\Shuriken.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Cart_01.dds</Source>
+      <Name>Graphics\Level\Town_Cart_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Cart_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Cart_01_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Cart_01_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Cart_01_Normal.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Tower_01.dds</Source>
+      <Name>Graphics\Level\Town_Tower_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Tower_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Tower_01_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Tower_01_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Tower_01_Normal.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Tower_02.dds</Source>
+      <Name>Graphics\Level\Town_Tower_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Tower_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Tower_02_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Tower_02_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Tower_02_Normal.xnb</Output>
+      <Time>2008-08-28T19:15:59.49575+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Control_Layout.dds</Source>
+      <Name>Graphics\Gui\Control_Layout</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Control_Layout.xnb</Output>
+      <Time>2008-08-27T17:16:46.7571952+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\A.dds</Source>
+      <Name>Graphics\Gui\Icons\A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\A.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\B.dds</Source>
+      <Name>Graphics\Gui\Icons\B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\B.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\Down.dds</Source>
+      <Name>Graphics\Gui\Icons\Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\Down.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\Left.dds</Source>
+      <Name>Graphics\Gui\Icons\Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\Left.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\Right.dds</Source>
+      <Name>Graphics\Gui\Icons\Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\Right.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\Up.dds</Source>
+      <Name>Graphics\Gui\Icons\Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\Up.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\X.dds</Source>
+      <Name>Graphics\Gui\Icons\X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\X.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\Icons\Y.dds</Source>
+      <Name>Graphics\Gui\Icons\Y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\Icons\Y.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Title.dds</Source>
+      <Name>Graphics\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Title.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color1_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color1_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color1_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color1_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color1_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color1_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color2_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color2_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color2_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color2_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color2_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color2_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color3_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color3_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color3_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color3_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color3_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color3_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color4_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color4_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color4_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_attacking_color4_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_attacking_color4_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_attacking_color4_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color1_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color1_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color1_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color1_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color1_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color1_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color2_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color2_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color2_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color2_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color2_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color2_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color3_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color3_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color3_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color3_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color3_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color3_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color4_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color4_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color4_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Arm_throwing_color4_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Arm_throwing_color4_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Arm_throwing_color4_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color1_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color1_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color1_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color1_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color1_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color1_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color1_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color1_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color1_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color1_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color1_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color1_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color2_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color2_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color2_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color2_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color2_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color2_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color2_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color2_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color2_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color2_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color2_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color2_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color3_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color3_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color3_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color3_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color3_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color3_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color3_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color3_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color3_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color3_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color3_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color3_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color4_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color4_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color4_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color4_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color4_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color4_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color4_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color4_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color4_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_jumping_color4_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_jumping_color4_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_jumping_color4_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color1_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color1_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color1_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color1_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color1_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color1_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color1_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color1_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color1_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color1_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color1_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color1_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color1_05.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color1_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color1_05.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color2_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color2_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color2_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color2_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color2_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color2_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color2_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color2_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color2_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color2_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color2_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color2_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color2_05.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color2_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color2_05.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color3_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color3_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color3_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color3_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color3_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color3_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color3_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color3_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color3_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color3_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color3_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color3_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color3_05.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color3_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color3_05.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color4_01.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color4_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color4_01.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color4_02.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color4_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color4_02.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color4_03.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color4_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color4_03.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color4_04.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color4_04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color4_04.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Animations\EnemyNinja\Body_running_color4_05.dds</Source>
+      <Name>Graphics\Animations\EnemyNinja\Body_running_color4_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Animations\EnemyNinja\Body_running_color4_05.xnb</Output>
+      <Time>2008-08-25T17:31:36.268102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Gui\HighScoreFrame.dds</Source>
+      <Name>Graphics\Gui\HighScoreFrame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Gui\HighScoreFrame.xnb</Output>
+      <Time>2008-08-25T23:30:14.703125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Other\Lightning1.dds</Source>
+      <Name>Graphics\Other\Lightning1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Other\Lightning1.xnb</Output>
+      <Time>2008-08-26T14:08:48.111+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Other\Lightning2.dds</Source>
+      <Name>Graphics\Other\Lightning2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Other\Lightning2.xnb</Output>
+      <Time>2008-08-26T14:17:29.861+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Slope_01.dds</Source>
+      <Name>Graphics\Level\Town_Slope_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Slope_01.xnb</Output>
+      <Time>2008-08-27T13:04:34.3595878+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Level\Town_Slope_01_Normal.dds</Source>
+      <Name>Graphics\Level\Town_Slope_01_Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\Graphics\Level\Town_Slope_01_Normal.xnb</Output>
+      <Time>2008-08-27T13:28:36.138502+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\NINJA\NinjaGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\NINJA\NinjaGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\NINJA\NinjaGame\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\NINJA\NinjaGame\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T12:08:00+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T12:08:42+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T12:08:30+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T12:07:44+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-03-31T21:46:38.4375+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

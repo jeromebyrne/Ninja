@@ -1,0 +1,60 @@
+<data>
+	<line>
+		<coord>-17</coord>
+		<coord>-154</coord>
+		<coord>15</coord>
+		<coord>-154</coord>		
+	</line>
+
+	<line>
+		<coord>-15</coord>
+		<coord>-35</coord>
+		<coord>17</coord>
+		<coord>-35</coord>
+	</line>	
+
+	<line>
+		<coord>-94</coord>
+		<coord>-80</coord>
+		<coord>-50</coord>
+		<coord>-80</coord>
+	</line>
+
+	<line>
+		<coord>50</coord>
+		<coord>-80</coord>
+		<coord>94</coord>
+		<coord>-80</coord>
+	</line>
+	
+	<!---->
+
+	<line>
+		<coord>-81</coord>
+		<coord>13</coord>
+		<coord>-59</coord>
+		<coord>24</coord>
+	</line>
+
+	<line>
+		<coord>-59</coord>
+		<coord>24</coord>
+		<coord>7</coord>
+		<coord>76</coord>		
+	</line>
+
+	<line>
+		<coord>7</coord>
+		<coord>76</coord>
+		<coord>63</coord>
+		<coord>26</coord>
+	</line>
+
+	<line>
+		<coord>63</coord>
+		<coord>26</coord>
+		<coord>78</coord>
+		<coord>18</coord>		
+	</line>
+
+</data>

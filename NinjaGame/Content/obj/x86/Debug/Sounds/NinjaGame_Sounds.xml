@@ -1,0 +1,1173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="NinjaGame_Sounds">Wave Bank
+{
+    Name = NinjaGame_Sounds;
+    Xbox File = Xbox\NinjaGame_Sounds.xwb;
+    Windows File = Win\NinjaGame_Sounds.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = Sound;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 1083445718;
+    PC Bank Last Modified High = 29950892;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 893914468;
+    Bank Last Revised High = 29950892;
+
+    Wave
+    {
+        Name = Footstep1;
+        File = Waves\Footstep1.wav;
+        Build Settings Last Modified Low = 655437868;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 43520;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep2;
+        File = Waves\Footstep2.wav;
+        Build Settings Last Modified Low = 655437868;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 39424;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep3;
+        File = Waves\Footstep3.wav;
+        Build Settings Last Modified Low = 655437868;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 41728;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep4;
+        File = Waves\Footstep4.wav;
+        Build Settings Last Modified Low = 655594118;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 37096;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep5;
+        File = Waves\Footstep5.wav;
+        Build Settings Last Modified Low = 655594118;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 40192;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep6;
+        File = Waves\Footstep6.wav;
+        Build Settings Last Modified Low = 655594118;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 37098;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep7;
+        File = Waves\Footstep7.wav;
+        Build Settings Last Modified Low = 655594118;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 42240;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Footstep8;
+        File = Waves\Footstep8.wav;
+        Build Settings Last Modified Low = 655594118;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 37320;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Jump1;
+        File = Waves\Jump1.wav;
+        Build Settings Last Modified Low = 655594118;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 37632;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Jump2;
+        File = Waves\Jump2.wav;
+        Build Settings Last Modified Low = 655594118;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 24806;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Jump3;
+        File = Waves\Jump3.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 27904;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Jump4;
+        File = Waves\Jump4.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 25856;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Sword1;
+        File = Waves\Sword1.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 15360;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Sword2;
+        File = Waves\Sword2.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 18832;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Sword3;
+        File = Waves\Sword3.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 14336;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1997974712;
+            Last Modified High = 29944998;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken1;
+        File = Waves\Shuriken1.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 18432;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1800721384;
+            Last Modified High = 29945201;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken2;
+        File = Waves\Shuriken2.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 22016;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1800721384;
+            Last Modified High = 29945201;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken3;
+        File = Waves\Shuriken3.wav;
+        Build Settings Last Modified Low = 655750368;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 26368;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1800721384;
+            Last Modified High = 29945201;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken4;
+        File = Waves\Shuriken4.wav;
+        Build Settings Last Modified Low = 655906618;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 20224;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1800721384;
+            Last Modified High = 29945201;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken5;
+        File = Waves\Shuriken5.wav;
+        Build Settings Last Modified Low = 655906618;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 21504;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1800721384;
+            Last Modified High = 29945201;
+        }
+    }
+
+    Wave
+    {
+        Name = Health_Pickup;
+        File = Waves\Health_Pickup.wav;
+        Build Settings Last Modified Low = 655906618;
+        Build Settings Last Modified High = 29946742;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 4144;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3945157534;
+            Last Modified High = 29945996;
+        }
+    }
+
+    Wave
+    {
+        Name = Menu_Move;
+        File = Waves\Menu_move.wav;
+        Build Settings Last Modified Low = 3236822924;
+        Build Settings Last Modified High = 29947931;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 5246;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1788445390;
+            Last Modified High = 29948885;
+        }
+    }
+
+    Wave
+    {
+        Name = Menu_Select;
+        File = Waves\Menu_Select.wav;
+        Build Settings Last Modified Low = 3236979174;
+        Build Settings Last Modified High = 29947931;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 22656;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1333493634;
+            Last Modified High = 29948016;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain1;
+        File = Waves\Ninja_Pain1.wav;
+        Build Settings Last Modified Low = 287274581;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 27900;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain2;
+        File = Waves\Ninja_Pain2.wav;
+        Build Settings Last Modified Low = 287274581;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 36902;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain3;
+        File = Waves\Ninja_Pain3.wav;
+        Build Settings Last Modified Low = 287430837;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 32134;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain4;
+        File = Waves\Ninja_Pain4.wav;
+        Build Settings Last Modified Low = 287430837;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 24408;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain5;
+        File = Waves\Ninja_Pain5.wav;
+        Build Settings Last Modified Low = 287587093;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 22050;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain6;
+        File = Waves\Ninja_Pain6.wav;
+        Build Settings Last Modified Low = 287587093;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 33354;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain7;
+        File = Waves\Ninja_Pain7.wav;
+        Build Settings Last Modified Low = 287743349;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 50096;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain8;
+        File = Waves\Ninja_Pain8.wav;
+        Build Settings Last Modified Low = 287743349;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 36354;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Ninja_Pain9;
+        File = Waves\Ninja_Pain9.wav;
+        Build Settings Last Modified Low = 287899605;
+        Build Settings Last Modified High = 29948822;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 25414;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Blood1;
+        File = Waves\Blood1.wav;
+        Build Settings Last Modified Low = 1667300050;
+        Build Settings Last Modified High = 29948826;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 17816;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Blood2;
+        File = Waves\Blood2.wav;
+        Build Settings Last Modified Low = 1667456291;
+        Build Settings Last Modified High = 29948826;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 11594;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Blood3;
+        File = Waves\Blood3.wav;
+        Build Settings Last Modified Low = 1667456291;
+        Build Settings Last Modified High = 29948826;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 12288;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Blood4;
+        File = Waves\Blood4.wav;
+        Build Settings Last Modified Low = 1667612532;
+        Build Settings Last Modified High = 29948826;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 14846;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Blood5;
+        File = Waves\Blood5.wav;
+        Build Settings Last Modified Low = 1667612532;
+        Build Settings Last Modified High = 29948826;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 14252;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Hit1;
+        File = Waves\Hit1.wav;
+        Build Settings Last Modified Low = 1487076630;
+        Build Settings Last Modified High = 29948830;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 5918;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Hit2;
+        File = Waves\Hit2.wav;
+        Build Settings Last Modified Low = 1487232871;
+        Build Settings Last Modified High = 29948830;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 18366;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Hit3;
+        File = Waves\Hit3.wav;
+        Build Settings Last Modified Low = 1487389112;
+        Build Settings Last Modified High = 29948830;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 6378;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Hit4;
+        File = Waves\Hit4.wav;
+        Build Settings Last Modified Low = 1487389112;
+        Build Settings Last Modified High = 29948830;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 3360;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Hit5;
+        File = Waves\Hit5.wav;
+        Build Settings Last Modified Low = 1487545353;
+        Build Settings Last Modified High = 29948830;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 7014;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Hit6;
+        File = Waves\Hit6.wav;
+        Build Settings Last Modified Low = 1487545353;
+        Build Settings Last Modified High = 29948830;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 3192;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Hit7;
+        File = Waves\Hit7.wav;
+        Build Settings Last Modified Low = 1487545353;
+        Build Settings Last Modified High = 29948830;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 3824;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1637202428;
+            Last Modified High = 29948832;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken_Hit1;
+        File = Waves\Shuriken_Hit1.wav;
+        Build Settings Last Modified Low = 488024591;
+        Build Settings Last Modified High = 29948847;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 16728;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1788445390;
+            Last Modified High = 29948885;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken_Hit2;
+        File = Waves\Shuriken_Hit2.wav;
+        Build Settings Last Modified Low = 488180836;
+        Build Settings Last Modified High = 29948847;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 10072;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1788445390;
+            Last Modified High = 29948885;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken_Hit3;
+        File = Waves\Shuriken_Hit3.wav;
+        Build Settings Last Modified Low = 488337081;
+        Build Settings Last Modified High = 29948847;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 15190;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1788445390;
+            Last Modified High = 29948885;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken_Hit4;
+        File = Waves\Shuriken_Hit4.wav;
+        Build Settings Last Modified Low = 488337081;
+        Build Settings Last Modified High = 29948847;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 10662;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1788445390;
+            Last Modified High = 29948885;
+        }
+    }
+
+    Wave
+    {
+        Name = Shuriken_Hit5;
+        File = Waves\Shuriken_Hit5.wav;
+        Build Settings Last Modified Low = 488493326;
+        Build Settings Last Modified High = 29948847;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 13394;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1788445390;
+            Last Modified High = 29948885;
+        }
+    }
+
+    Wave
+    {
+        Name = Deflect_01;
+        File = Waves\deflect_01.wav;
+        Build Settings Last Modified Low = 776038644;
+        Build Settings Last Modified High = 29949111;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 34816;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2637667554;
+            Last Modified High = 29949221;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

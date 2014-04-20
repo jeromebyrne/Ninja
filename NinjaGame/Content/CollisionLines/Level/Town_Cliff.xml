@@ -1,0 +1,68 @@
+<data>
+	
+	<line>
+		<coord>514</coord>
+		<coord>-1634</coord>
+		<coord>544</coord>
+		<coord>-1442</coord>
+	</line>
+
+	<line>
+		<coord>544</coord>
+		<coord>-1442</coord>
+		<coord>508</coord>
+		<coord>-1226</coord>
+	</line>
+
+	<line>
+		<coord>508</coord>
+		<coord>-1226</coord>
+		<coord>781</coord>
+		<coord>-275</coord>
+	</line>
+
+	<line>
+		<coord>781</coord>
+		<coord>-275</coord>
+		<coord>664</coord>
+		<coord>678</coord>
+	</line>
+
+	<line>
+		<coord>664</coord>
+		<coord>678</coord>
+		<coord>532</coord>
+		<coord>1083</coord>
+	</line>
+
+	<line>
+		<coord>532</coord>
+		<coord>1083</coord>
+		<coord>565</coord>
+		<coord>1464</coord>
+	</line>
+
+	<line>
+		<coord>565</coord>
+		<coord>1464</coord>
+		<coord>427</coord>
+		<coord>1932</coord>
+	</line>
+
+
+	<line>
+		<coord>427</coord>
+		<coord>1932</coord>
+		<coord>514</coord>
+		<coord>2048</coord>		
+	</line>
+
+	<line>
+		<coord>514</coord>
+		<coord>2048</coord>
+		<coord>514</coord>
+		<coord>4096</coord>		
+	</line>
+
+
+</data>
